@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogWatcher", "LogWatcher\LogWatcher.csproj", "{F4D80A6A-6CF3-4D00-B4E5-105C04D646B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{090EF010-F78C-4A97-A376-790913EE2B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D80A6A-6CF3-4D00-B4E5-105C04D646B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D80A6A-6CF3-4D00-B4E5-105C04D646B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D80A6A-6CF3-4D00-B4E5-105C04D646B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D80A6A-6CF3-4D00-B4E5-105C04D646B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090EF010-F78C-4A97-A376-790913EE2B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090EF010-F78C-4A97-A376-790913EE2B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090EF010-F78C-4A97-A376-790913EE2B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090EF010-F78C-4A97-A376-790913EE2B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
